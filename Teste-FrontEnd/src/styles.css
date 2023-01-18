@@ -1,0 +1,68 @@
+.cabecalho{
+    background-color: blue;
+    margin: 0;
+    padding: 1%;
+    font-size: 100%;
+    font-weight: normal;
+    box-sizing: border-box;
+    border:none;
+    outline: none;
+    }
+    
+    .titulo{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .curso{
+        margin-left: 30px;
+    }
+    
+    
+    .fieldset{
+        border: 1px solid gray;
+        position: absolute;
+        display: block;
+        margin-left: 25%;  
+        margin-top: -2%;
+    }
+    
+    .fieldseti{
+        border: 1px solid gray;
+        display: block;
+        margin-left: 15%;
+        position: absolute;  
+        margin-top: -2%;
+    }
+    
+    .botao1{
+        background-color: blue;
+        border: 1px solid blue;
+        border-radius: 1px;
+        color: white;
+        padding: 5px;
+        border-collapse: collapse;
+        text-align: center;
+    }
+    
+    .table{
+        border-collapse:0;
+    }
+    
+    .table td, table th, tr td{
+        padding: 30px;
+        border-collapse: collapse;
+        text-align: center;
+        line-height: 5px;
+    
+    }
+    
+    .botao2{
+        background-color: blue;
+        border: 1px solid blue;
+        border-radius: 2px;
+        color: white;
+        padding: 5px;
+        text-align: center;
+    }    
